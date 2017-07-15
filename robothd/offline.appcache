@@ -1,16 +1,16 @@
 ﻿CACHE MANIFEST
-#1500120487
+#1500147872
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 offlineClient.js
-images/rustanim-sheet0.png
-images/rustanim-sheet1.png
-images/rustanim-sheet2.png
-images/rustanim-sheet3.png
-images/rustanim-sheet4.png
-images/rustanim-sheet5.png
-images/rustmov-sheet0.png
+images/1rustanim-sheet0.png
+images/1rustanim-sheet1.png
+images/1rustanim-sheet2.png
+images/1rustanim-sheet3.png
+images/1rustanim-sheet4.png
+images/1rustanim-sheet5.png
+images/1rustmov-sheet0.png
 images/bob-sheet0.png
 images/bob-sheet1.png
 images/bob-sheet2.png
@@ -88,7 +88,7 @@ images/guzikmenuexitquit-sheet0.png
 images/guzikmenuexitquit-sheet1.png
 images/guzikmenuexitquit-sheet2.png
 images/przyciemnienie.png
-images/target-sheet0.png
+images/1target-sheet0.png
 images/strefachodzenia-sheet0.png
 images/solid-sheet0.png
 images/sprite21-sheet0.png
