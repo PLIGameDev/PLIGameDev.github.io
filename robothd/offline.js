@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1500189366,
+	"version": 1500198628,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -44,7 +44,6 @@
 		"images/lampa-sheet0.png",
 		"images/lampa-sheet1.png",
 		"images/itemspoz1-sheet0.png",
-		"images/itemspoz1-sheet1.png",
 		"images/drzwiczkileca-sheet0.png",
 		"images/obiektypoznieaktywne-sheet0.png",
 		"images/glowabad-sheet0.png",
