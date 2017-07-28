@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1500563095,
+	"version": 1501264244,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -184,6 +184,8 @@
 		"images/trescdymek2-sheet0.png",
 		"images/srubokretdlaboba-sheet0.png",
 		"images/rustkolizje2-sheet0.png",
+		"images/1_3-sheet0.png",
+		"images/1_3-sheet1.png",
 		"media/klik_001.m4a",
 		"media/klik_001.ogg",
 		"media/czajnik.m4a",
