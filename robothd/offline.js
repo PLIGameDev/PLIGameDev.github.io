@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1501433435,
+	"version": 1501444802,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -162,7 +162,7 @@
 		"images/sprite5-sheet0.png",
 		"images/sprite5-sheet1.png",
 		"images/sprite5-sheet2.png",
-		"images/rustkolizje-sheet0.png",
+		"images/rustkolizjecien-sheet0.png",
 		"images/menu2-sheet0.png",
 		"images/play-sheet0.png",
 		"images/play-sheet1.png",
@@ -184,7 +184,7 @@
 		"images/solidkolizje.png",
 		"images/trescdymek2-sheet0.png",
 		"images/srubokretdlaboba-sheet0.png",
-		"images/rustkolizje2-sheet0.png",
+		"images/rustkolizje2zasieg-sheet0.png",
 		"images/lapka-sheet0.png",
 		"images/lapka-sheet1.png",
 		"media/klik_001.m4a",
