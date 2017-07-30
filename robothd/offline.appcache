@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1501411776
+#1501426988
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -183,8 +183,8 @@ images/solidkolizje.png
 images/trescdymek2-sheet0.png
 images/srubokretdlaboba-sheet0.png
 images/rustkolizje2-sheet0.png
-images/1_3-sheet0.png
-images/1_3-sheet1.png
+images/lapka-sheet0.png
+images/lapka-sheet1.png
 media/klik_001.m4a
 media/klik_001.ogg
 media/czajnik.m4a
@@ -419,6 +419,8 @@ media/01%20lazienka%20-%20muzyka%20loop.m4a
 media/01%20lazienka%20-%20muzyka%20loop.ogg
 media/rust%20ble_001.m4a
 media/rust%20ble_001.ogg
+media/silnik%20rusza_001.m4a
+media/silnik%20rusza_001.ogg
 media/bob%20chodzi.m4a
 media/chodzi%201.m4a
 media/chod.m4a
