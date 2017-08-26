@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Ranking",
-	"short_name": "Ranking",
+	"name": "Ranking graczy",
+	"short_name": "Ranking graczy",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
