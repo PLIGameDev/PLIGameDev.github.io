@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1504020312,
+	"version": 1504276829,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,6 +10,7 @@
 		"images/spawner-sheet0.png",
 		"images/radar-sheet0.png",
 		"images/radardots-sheet0.png",
+		"images/tiledbackground.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
