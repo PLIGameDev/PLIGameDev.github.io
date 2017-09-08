@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1504824786
+#1504899385
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -32,7 +32,7 @@ images/itemonground-sheet0.png
 images/itemonground-sheet1.png
 images/enemyhpbar-sheet0.png
 images/particles.png
-images/playerbody-sheet0.png
+images/player-sheet0.png
 images/rock-sheet0.png
 images/blood-sheet0.png
 images/wraptonextlevel-sheet0.png
@@ -43,6 +43,8 @@ images/charge-sheet1.png
 images/charge-sheet2.png
 images/fireball-sheet0.png
 images/explosion-sheet0.png
+images/radar-sheet0.png
+images/radardots-sheet0.png
 media/blow6.m4a
 media/blow6.ogg
 media/bow.m4a
