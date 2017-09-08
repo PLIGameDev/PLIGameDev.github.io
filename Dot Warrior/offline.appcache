@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1504902441
+#1504907342
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -45,6 +45,10 @@ images/radar-sheet0.png
 images/radardots-sheet0.png
 images/dot-sheet0.png
 images/27668349metalmedievalshieldandcrossedswordsbehinditisolatedonwhitestockphoto-sheet0.png
+images/start-sheet0.png
+images/load-sheet0.png
+images/save-sheet0.png
+images/flash.png
 media/blow6.m4a
 media/blow6.ogg
 media/bow.m4a

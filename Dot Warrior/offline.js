@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1504902441,
+	"version": 1504907342,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,6 +46,10 @@
 		"images/radardots-sheet0.png",
 		"images/dot-sheet0.png",
 		"images/27668349metalmedievalshieldandcrossedswordsbehinditisolatedonwhitestockphoto-sheet0.png",
+		"images/start-sheet0.png",
+		"images/load-sheet0.png",
+		"images/save-sheet0.png",
+		"images/flash.png",
 		"media/blow6.m4a",
 		"media/blow6.ogg",
 		"media/bow.m4a",
