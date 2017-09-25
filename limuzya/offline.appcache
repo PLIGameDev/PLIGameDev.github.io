@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1506345570
+#1506345806
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -12,6 +12,7 @@ images/sprite-sheet0.png
 images/tiledbackground.png
 images/particles2.png
 images/sprite2-sheet0.png
+images/tiledbackground2.png
 media/samochod%20rusza.m4a
 media/samochod%20rusza.ogg
 media/samochod%20rusza2.m4a

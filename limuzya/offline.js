@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1506345570,
+	"version": 1506345806,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,7 @@
 		"images/tiledbackground.png",
 		"images/particles2.png",
 		"images/sprite2-sheet0.png",
+		"images/tiledbackground2.png",
 		"media/samochod rusza.m4a",
 		"media/samochod rusza.ogg",
 		"media/samochod rusza2.m4a",
