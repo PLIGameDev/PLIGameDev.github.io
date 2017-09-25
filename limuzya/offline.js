@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1506344268,
+	"version": 1506345380,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,6 +23,8 @@
 		"media/motor2.ogg",
 		"media/carhit.m4a",
 		"media/carhit.ogg",
+		"media/kanaliami.m4a",
+		"media/kanaliami.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
