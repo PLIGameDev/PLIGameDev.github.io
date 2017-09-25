@@ -21848,6 +21848,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.ScrollToObject,
 	cr.plugins_.Sprite.prototype.cnds.IsOutsideLayout,
 	cr.behaviors.scrollto.prototype.acts.SetEnabled,
+	cr.system_object.prototype.cnds.TriggerOnce,
 	cr.plugins_.Sprite.prototype.cnds.OnCollision,
 	cr.plugins_.Sprite.prototype.acts.SetPos,
 	cr.behaviors.scrollto.prototype.acts.Shake,
