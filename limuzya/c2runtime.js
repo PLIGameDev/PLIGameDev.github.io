@@ -21666,5 +21666,7 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Bullet.prototype.acts.SetSpeed,
 	cr.system_object.prototype.acts.Wait,
 	cr.plugins_.Sprite.prototype.acts.SetPos,
-	cr.plugins_.Sprite.prototype.acts.SetAngle
+	cr.plugins_.Sprite.prototype.acts.SetAngle,
+	cr.plugins_.Sprite.prototype.cnds.IsBetweenAngles,
+	cr.plugins_.Sprite.prototype.exps.Angle
 ];};
